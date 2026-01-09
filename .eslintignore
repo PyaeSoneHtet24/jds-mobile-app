@@ -1,0 +1,9 @@
+node_modules/
+android/
+ios/
+build/
+coverage/
+babel.config.js
+metro.config.js
+remove-console.js
+commitlint.config.js

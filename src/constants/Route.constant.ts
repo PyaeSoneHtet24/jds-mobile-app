@@ -1,0 +1,2 @@
+export const SIGN_IN_SCREEN = 'SIGN_IN_SCREEN';
+export const DASHBOARD_SCREEN = 'DASHBOARD_SCREEN';
